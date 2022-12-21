@@ -1,11 +1,17 @@
-Classes and Objects
-Project done during Full Stack Software Engineering studies at ALX. It aims to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in Python.
+**Classes and Objects**
 
-Technologies
+Project done during **Full Stack Software Engineering studies** at **ALX.** It aims to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in Python.
+
+
+**Technologies**
+
 Python Scripts are written with Python
 C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
-Files
+
+
+**Files**
+
 Filename	Description
 0-square.py	Empty class Square that defines a square
 1-square.py	Class Square that defines a square, based on 0-square.py
