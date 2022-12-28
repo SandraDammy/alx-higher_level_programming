@@ -17,7 +17,7 @@ In this project, I started practicing test-driven development using docstring an
 # Function Prototypes 
 Prototypes for functions written in this project:
 
-**| File	| Prototype |**
+| **File**	| **Prototype** |
 | --- | --- |
 | 0-add_integer.py	| def add_integer(a, b=98): |
 | 2-matrix_divided.py	| def matrix_divided(matrix, div): |
@@ -31,7 +31,7 @@ Prototypes for functions written in this project:
 
 # Tasks 
 
-* ** 0. Integers addition**
+* ### 0. Integers addition
 
         * 0-add_integer.py: Python function that returns the integer addition of two numbers.
         * If either of a or b is not an int or float, a TypeError is raised with the message a must be an integer or b must be an integer.
