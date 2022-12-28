@@ -37,7 +37,8 @@ Prototypes for functions written in this project:
         * If either of a or b is not an int or float, a TypeError is raised with the message a must be an integer or b must be an integer.
         * If either of a or b is a float, it is casted to an int before addition.
 
- * **1. Divide a matrix**
+ * ###1. Divide a matrix
+ 
         * 2-matrix_divided.py: Python function that divides all elements of a matrix by a common divisor.
         * Returns a new matrix representing the division of all elements of matrix by div.
         * Quotients are rounded to two decimal places.
