@@ -1,1 +1,3 @@
-0-main.html
+(function () {
+  document.querySelector('header').style.color = '#FF0000';
+}) ();
